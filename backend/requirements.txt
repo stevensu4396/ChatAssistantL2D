@@ -1,0 +1,11 @@
+flask
+flask_socketio
+torch-directml
+transformers
+openai-whisper
+openai
+
+
+
+
+librosa
